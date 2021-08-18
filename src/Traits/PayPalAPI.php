@@ -16,6 +16,7 @@ trait PayPalAPI
     use PayPalAPI\PaymentRefunds;
     use PayPalAPI\BillingPlans;
     use PayPalAPI\Subscriptions;
+    use PayPalAPI\Orders;
     use PayPalAPI\Reporting;
     use PayPalAPI\WebHooks;
     use PayPalAPI\WebHooksVerification;
